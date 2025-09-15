@@ -12,6 +12,7 @@ cc-nc-hardware/*/*-backups/
 .idea/
 distrib/
 
+*.FCBak
 fabrication-toolkit-options.json
 hardware/Centronics_50Pin/production/
 hardware/MDR_50Pin/MDR_50Pin-backups/
